@@ -1,4 +1,4 @@
-# ticos-back
+# ticos-front
 Front-end do projeto do Ticos
 
 Subam todos os comits na branch "dev" a "master" apenas quando o projeto for testado e tiver estável.
